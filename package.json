@@ -1,0 +1,11 @@
+{
+  "name": "ax-glitchtip-backend-smoke",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "node --check index.js",
+    "start": "node index.js"
+  }
+}
